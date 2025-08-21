@@ -9,9 +9,7 @@
 <h1 align="center">🔧 Tools & Technologies</h1>
 <div style="text-align:center; background-color:#2C3E50; padding:20px; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
   <table style="width:90%; margin:auto; color:#ECF0F1; font-family:Arial,sans-serif; font-size:20px; border-collapse: separate; border-spacing: 30px;">
-    
-
-    <tr>
+      <tr>
       <th colspan="4" style="font-size:36px; padding:15px; background-color:#3498DB; border-radius:10px;">🛠 DevOps</th>
     </tr>
     <tr>
@@ -20,9 +18,8 @@
       <td style="text-align:center;"><img src="https://cdn.simpleicons.org/terraform/7B42BC" alt="terraform logo" style="height:80px;"></td>
       <td style="text-align:center;">&nbsp;</td>
     </tr>
-    
-  
-    <tr>
+
+  <tr>
       <th colspan="4" style="font-size:36px; padding:15px; background-color:#E67E22; border-radius:10px;">🌐 Frameworks (MERN)</th>
     </tr>
     <tr>
@@ -31,9 +28,7 @@
       <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo" style="height:80px;"></td>
       <td style="text-align:center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb logo" style="height:80px;"></td>
     </tr>
-    
-
-    <tr>
+       <tr>
       <th colspan="4" style="font-size:36px; padding:15px; background-color:#27AE60; border-radius:10px;">💻 Languages & Databases</th>
     </tr>
     <tr>
@@ -48,10 +43,8 @@
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-  </table>
+     </table>
 </div>
-
-
 
 <h1 align="center">🌟 About Me</h1>
 
