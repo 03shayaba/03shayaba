@@ -7,7 +7,7 @@
 ### 
 
 <h1 align="center">🔧 Tools & Technologies</h1>
-<div style="text-align:center; background-color:#2C3E50; padding:20px; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
+<div align="center" style="text-align:center; background-color:#2C3E50; padding:20px; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
   <table style="width:90%; margin:auto; color:#ECF0F1; font-family:Arial,sans-serif; font-size:20px; border-collapse: separate; border-spacing: 30px;">
       <tr>
       <th colspan="4" style="font-size:36px; padding:15px; background-color:#3498DB; border-radius:10px;">🛠 DevOps</th>
