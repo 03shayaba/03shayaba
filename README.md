@@ -50,7 +50,7 @@
 
 <img align="right" height="360" src="https://i.gifer.com/9cIT.gif"  />
 
-<h2 align="left">🚀 Current Focus: Building MERN-based microservices and exploring cloud-native solutions.<br>💡 Skills: Proficient in React, Node.js, MongoDB, Docker, Kubernetes, and CI/CD pipelines.<br>📚 Learning: Exploring Blockchain Development to expand my expertise.<br>⚓   Designed and deployed end-to-end MERN microservices.<br>🚧 Implemented Redis caching for optimized API performance.<br>🏝 Built scalable systems with Docker and Kubernetes for deployment.</h2>
+<h2 align="left">🚀 Current Focus: Building projects using the MERN stack and learning modern cloud-native tools..<br>💡 Skills: Proficient in React, Node.js, MongoDB, Docker, Kubernetes, and CI/CD pipelines.<br>📚 Learning: Exploring the DevOps concept.<br>⚓  Experience: Designed and deployed end-to-end MERN applications.<br>🚧 Implemented Redis caching for optimized API performance.<br>🏝 Built scalable systems with Docker and Kubernetes for deployment.</h2>
 
 <br clear="both">
 
